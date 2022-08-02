@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+img {
+  max-width: 100%;
+}
+#Construction {
+  background: #fda820;
+  position: relative;
+  height: 60rem;
+}
+.construction-heading {
+  font-family: Oswald, sans-serif !important;
+  font-weight: 700;
+  font-size: 4.5rem;
+}
+.construction-button {
+  letter-spacing: 3px;
+}
+.industrial-button {
+  border: 2px solid #fda820;
+}
+.industiral {
+  position: absolute;
+  top: 34rem;
+  left: 17rem;
+}
+#INDUSTRIAL {
+  background: #fda820;
+}
+.text {
+  display: block;
+}
+#footer {
+  background: #333333;
+}
+#footer a {
+  text-decoration: underline;
+  color: rgb(169, 169, 249);
+}
+.nav-bar a {
+  color: black;
+}
+.nav-bar a:hover {
+  color: #fda820;
+}
